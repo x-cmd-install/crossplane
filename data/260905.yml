@@ -7,15 +7,15 @@ about:
   head: c2a893f
   archived: false
   latestVersion: v1.20.12
-  collectedAt: 2026-09-05T05:00:00Z
+  collectedAt: 2026-09-05T18:31:18Z
 timeline:
   created: 2018-09-08
   lastCommit: 2026-09-02
   lastRelease: 2026-08-21
 popularity:
-  star: 12029
+  star: 12030
   watcher: 143
-  fork: 1252
+  fork: 1253
   release: 177
   contributor: 298
   pullRequest: 4713
@@ -84,7 +84,7 @@ total:
   commit: 9101
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-09-05T05:00:03Z
+collectedAt: 2026-09-05T18:31:21Z
 loc:
   Go:
     code: 83331
