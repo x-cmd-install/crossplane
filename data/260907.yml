@@ -5,19 +5,19 @@ about:
   head: c2a893f
   archived: false
   latestVersion: "v1.20.12"
-  collectedAt: 2026-09-07T06:16:19Z
+  collectedAt: 2026-09-07T18:18:26Z
 timeline:
   created: 2018-09-08
   lastCommit: 2026-09-02
   lastRelease: 2026-08-21
 popularity:
-  star: 12035
+  star: 12039
   watcher: 144
   fork: 1254
   release: 177
   contributor: 298
   pullRequest: 4713
-  issue: 2672
+  issue: 2673
 language:
   Go: 3273055
   Nix: 44551
@@ -30,7 +30,7 @@ recent:
     release: 5
     mergedPR: 50
     openPR: 27
-    closedIssue: 0
+    closedIssue: 1
     openIssue: 14
     commit: 14
   last60d:
@@ -38,7 +38,7 @@ recent:
     release: 9
     mergedPR: 135
     openPR: 46
-    closedIssue: 5
+    closedIssue: 6
     openIssue: 23
     commit: 76
   last90d:
@@ -46,7 +46,7 @@ recent:
     release: 14
     mergedPR: 205
     openPR: 57
-    closedIssue: 11
+    closedIssue: 12
     openIssue: 34
     commit: 103
   last180d:
@@ -54,7 +54,7 @@ recent:
     release: 26
     mergedPR: 350
     openPR: 69
-    closedIssue: 49
+    closedIssue: 50
     openIssue: 55
     commit: 276
   last360d:
@@ -62,7 +62,7 @@ recent:
     release: 43
     mergedPR: 575
     openPR: 75
-    closedIssue: 138
+    closedIssue: 139
     openIssue: 69
     commit: 635
   last720d:
@@ -70,19 +70,19 @@ recent:
     release: 72
     mergedPR: 964
     openPR: 75
-    closedIssue: 423
+    closedIssue: 424
     openIssue: 88
     commit: 2023
 total:
   release: 177
   mergedPR: 3970
   openPR: 75
-  closedIssue: 2553
+  closedIssue: 2554
   openIssue: 119
   commit: 9101
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-09-07T06:16:26Z
+collectedAt: 2026-09-07T18:18:46Z
 loc:
   Go:
     code: 83331
@@ -246,7 +246,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:16:27+00:00
+  collectedAt: 2026-09-07T18:18:59+00:00
   platform:
     darwin/arm64:
       name:  null
