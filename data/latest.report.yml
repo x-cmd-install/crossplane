@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.12"
   latestRelease: "v1.20.12"
   latestPrerelease: "v2.4.0-rc.1"
-  collectedAt: 2026-09-09T06:19:11Z
+  collectedAt: 2026-09-09T20:47:30Z
 timeline:
   created: 2018-09-08
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-08-21
   lastPrerelease: 2026-08-14
 popularity:
-  star: 12045
+  star: 12048
   watcher: 144
-  fork: 1255
+  fork: 1257
   release: 177
   contributor: 298
-  pullRequest: 4715
+  pullRequest: 4723
   issue: 2674
 language:
   Go: 3308246
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-10
     release: 5
     mergedPR: 50
-    openPR: 24
+    openPR: 31
     closedIssue: 1
     openIssue: 13
     commit: 20
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-11
     release: 9
     mergedPR: 133
-    openPR: 45
+    openPR: 52
     closedIssue: 7
     openIssue: 23
     commit: 83
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-11
     release: 13
     mergedPR: 207
-    openPR: 55
+    openPR: 62
     closedIssue: 13
     openIssue: 32
     commit: 110
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-13
     release: 26
     mergedPR: 351
-    openPR: 69
+    openPR: 76
     closedIssue: 50
     openIssue: 55
     commit: 283
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-14
     release: 43
     mergedPR: 577
-    openPR: 75
+    openPR: 82
     closedIssue: 140
     openIssue: 69
     commit: 642
@@ -73,20 +73,20 @@ recent:
     since: 2024-09-19
     release: 72
     mergedPR: 964
-    openPR: 75
+    openPR: 82
     closedIssue: 422
     openIssue: 88
     commit: 2031
 total:
   release: 177
   mergedPR: 3972
-  openPR: 75
+  openPR: 82
   closedIssue: 2556
   openIssue: 118
   commit: 9110
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-09-09T06:19:19Z
+collectedAt: 2026-09-09T20:47:43Z
 loc:
   Go:
     code: 83995
