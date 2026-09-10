@@ -4,7 +4,7 @@
 
 The Cloud Native Control Plane
 
-![crossplane](https://repo.x-cmd.io/crossplane.svg)
+![crossplane](https://repo.x-cmd.io/crossplane.svg?lang=zh)
 
 ## 安装
 
@@ -12,35 +12,7 @@ The Cloud Native Control Plane
 x install crossplane
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/crossplane/crossplane>
-- **官网**: <https://crossplane.io>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v1.20.12` (2026-08-21)
-- **最近提交**: 2026-09-09
-- **发布时间**: 2026-08-20T14:42:33Z
-
-## 流行度
-
-- **Star**: 12,049 · **Fork**: 1,257 · **开放 issue**: 2,674 · **贡献者**: 298
-
-## 累计统计
-
-- **发布数**: 177 · **已合并 PR**: 3973 · **开放 PR**: 82 · **已关闭 issue**: 2556 · **开放 issue**: 118 · **提交数**: 9112
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 51 | 30 | 1 | 13 | 21 |
-| 90d | 2026-06-12 | 13 | 208 | 62 | 13 | 32 | 111 |
-| 360d | 2025-09-15 | 43 | 577 | 82 | 138 | 69 | 643 |
-
-## 代码规模
+## 代码洞察
 
 合计: **108,879** 行代码（覆盖前 5 种语言、共 **770** 个文件）。
 
@@ -61,6 +33,36 @@ x install crossplane
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Signed-Releases** (-1/10) — no releases found
 
+## 源代码
+
+- **上游仓库**: <https://github.com/crossplane/crossplane>
+- **官网**: <https://crossplane.io>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v1.20.12` (2026-08-21)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 12,051 · **Fork**: 1,256 · **开放 issue**: 2,674 · **贡献者**: 298
+
+## 累计统计
+
+- **发布数**: 177 · **已合并 PR**: 3977 · **开放 PR**: 78 · **已关闭 issue**: 2556 · **开放 issue**: 118 · **提交数**: 9114
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 5 | 55 | 26 | 1 | 13 | 22 |
+| last60d | 2026-07-12 | 9 | 138 | 48 | 7 | 23 | 85 |
+| 90d | 2026-06-12 | 13 | 212 | 58 | 13 | 32 | 112 |
+| last180d | 2026-03-14 | 26 | 356 | 72 | 50 | 55 | 285 |
+| 360d | 2025-09-15 | 43 | 581 | 78 | 138 | 69 | 644 |
+| last720d | 2024-09-20 | 72 | 967 | 78 | 422 | 88 | 2031 |
+
 ## 改进这些数据
 
 crossplane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `crossplane` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -70,4 +72,4 @@ crossplane 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:25:11Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:38:47Z._
