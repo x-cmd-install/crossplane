@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.20.12"
   latestRelease: "v1.20.12"
   latestPrerelease: "v2.4.0-rc.1"
-  collectedAt: 2026-09-10T18:24:56Z
+  collectedAt: 2026-09-10T23:38:37Z
 timeline:
   created: 2018-09-08
   lastCommit: 2026-09-10
@@ -36,7 +36,7 @@ recent:
     openPR: 26
     closedIssue: 1
     openIssue: 13
-    commit: 0
+    commit: 22
   last60d:
     since: 2026-07-12
     release: 9
@@ -44,7 +44,7 @@ recent:
     openPR: 48
     closedIssue: 7
     openIssue: 23
-    commit: 0
+    commit: 85
   last90d:
     since: 2026-06-12
     release: 13
@@ -52,7 +52,7 @@ recent:
     openPR: 58
     closedIssue: 13
     openIssue: 32
-    commit: 0
+    commit: 112
   last180d:
     since: 2026-03-14
     release: 26
@@ -60,7 +60,7 @@ recent:
     openPR: 72
     closedIssue: 50
     openIssue: 55
-    commit: 0
+    commit: 285
   last360d:
     since: 2025-09-15
     release: 43
@@ -68,7 +68,7 @@ recent:
     openPR: 78
     closedIssue: 138
     openIssue: 69
-    commit: 0
+    commit: 644
   last720d:
     since: 2024-09-20
     release: 72
@@ -86,7 +86,7 @@ total:
   commit: 9114
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-09-10T18:25:05Z
+collectedAt: 2026-09-10T23:38:42Z
 loc:
   Go:
     code: 83995
