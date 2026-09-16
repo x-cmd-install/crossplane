@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.20.12` (2026-08-21)
+- **Latest**: `v1.20.13` (2026-09-15)
 - **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 12,067 · **Forks**: 1,260 · **Open issues**: 2,676 · **Contributors**: 298
+- **Stars**: 12,075 · **Forks**: 1,263 · **Open issues**: 2,674 · **Contributors**: 298
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 3982 · **Open PRs**: 76 · **Closed issues**: 2558 · **Open issues**: 118 · **Commits**: 9116
+- **Releases**: 181 · **Merged PRs**: 3982 · **Open PRs**: 75 · **Closed issues**: 2558 · **Open issues**: 116 · **Commits**: 9116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 4 | 46 | 22 | 1 | 15 | 19 |
-| last60d | 2026-07-17 | 9 | 139 | 44 | 5 | 23 | 81 |
-| 90d | 2026-06-17 | 13 | 183 | 52 | 12 | 30 | 106 |
-| last180d | 2026-03-19 | 26 | 354 | 70 | 44 | 53 | 274 |
-| 360d | 2025-09-20 | 43 | 577 | 76 | 138 | 69 | 641 |
-| last720d | 2024-09-25 | 72 | 970 | 76 | 420 | 88 | 2018 |
+| 30d | 2026-08-17 | 8 | 46 | 21 | 1 | 13 | 19 |
+| last60d | 2026-07-18 | 13 | 139 | 44 | 5 | 21 | 81 |
+| 90d | 2026-06-18 | 17 | 177 | 52 | 12 | 26 | 106 |
+| last180d | 2026-03-20 | 30 | 353 | 69 | 44 | 51 | 274 |
+| 360d | 2025-09-21 | 47 | 577 | 75 | 137 | 67 | 641 |
+| last720d | 2024-09-26 | 76 | 970 | 75 | 418 | 86 | 2018 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:37:23Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:36:10Z._
