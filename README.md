@@ -4,7 +4,7 @@
 
 The Cloud Native Control Plane
 
-![crossplane](https://repo.x-cmd.io/crossplane.svg)
+[![x-cmd/install — crossplane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crossplane.svg)](https://x-cmd.com/install/crossplane)
 
 ## Install
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 12,083 · **Forks**: 1,264 · **Open issues**: 2,675 · **Contributors**: 298
+- **Stars**: 12,089 · **Forks**: 1,265 · **Open issues**: 2,675 · **Contributors**: 298
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 3982 · **Open PRs**: 78 · **Closed issues**: 2560 · **Open issues**: 115 · **Commits**: 9116
+- **Releases**: 181 · **Merged PRs**: 3982 · **Open PRs**: 83 · **Closed issues**: 2560 · **Open issues**: 115 · **Commits**: 9116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 8 | 39 | 25 | 1 | 11 | 19 |
-| last60d | 2026-07-20 | 13 | 136 | 47 | 5 | 22 | 81 |
-| 90d | 2026-06-20 | 17 | 175 | 53 | 12 | 26 | 106 |
-| last180d | 2026-03-22 | 30 | 351 | 72 | 46 | 50 | 274 |
-| 360d | 2025-09-23 | 47 | 576 | 78 | 138 | 66 | 641 |
-| last720d | 2024-09-28 | 76 | 970 | 78 | 419 | 85 | 2018 |
+| 30d | 2026-08-21 | 7 | 34 | 29 | 1 | 11 | 19 |
+| last60d | 2026-07-22 | 13 | 123 | 51 | 5 | 22 | 81 |
+| 90d | 2026-06-22 | 17 | 171 | 59 | 12 | 26 | 106 |
+| last180d | 2026-03-24 | 30 | 349 | 76 | 44 | 50 | 274 |
+| 360d | 2025-09-25 | 47 | 575 | 83 | 138 | 66 | 641 |
+| last720d | 2024-09-30 | 76 | 969 | 83 | 417 | 85 | 2018 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:36:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:22:42Z._
