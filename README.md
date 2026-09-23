@@ -4,7 +4,7 @@
 
 The Cloud Native Control Plane
 
-[![x-cmd/install — crossplane Code Quality Monitoring Repo Card](https://repo.x-cmd.io/crossplane.svg)](https://x-cmd.com/install/crossplane)
+[![x-cmd/install — crossplane Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/crossplane.svg)](https://x-cmd.com/install/crossplane)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install crossplane
 
 ## Code insight
 
-Total: **108,879** lines of code across **770** files in the top 5 languages.
+Total: **108,945** lines of code across **770** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,995 | 16,279 | 10,906 | 389 |
+| Go | 84,061 | 16,279 | 10,910 | 389 |
 | Yaml | 23,634 | 479 | 165 | 364 |
 | Nix | 561 | 810 | 77 | 6 |
 | Protobuf | 383 | 534 | 215 | 4 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.20.13` (2026-09-15)
+- **Latest**: `v2.4.2` (2026-09-22)
 - **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 12,096 · **Forks**: 1,266 · **Open issues**: 2,675 · **Contributors**: 298
+- **Stars**: 12,098 · **Forks**: 1,267 · **Open issues**: 2,676 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 3988 · **Open PRs**: 79 · **Closed issues**: 2560 · **Open issues**: 115 · **Commits**: 9128
+- **Releases**: 182 · **Merged PRs**: 3995 · **Open PRs**: 83 · **Closed issues**: 2561 · **Open issues**: 115 · **Commits**: 9134
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 34 | 30 | 1 | 10 | 17 |
-| last60d | 2026-07-24 | 9 | 121 | 47 | 5 | 22 | 72 |
-| 90d | 2026-06-24 | 13 | 176 | 56 | 12 | 26 | 100 |
-| last180d | 2026-03-26 | 30 | 352 | 72 | 42 | 49 | 270 |
-| 360d | 2025-09-27 | 47 | 579 | 79 | 138 | 66 | 641 |
-| last720d | 2024-10-02 | 76 | 975 | 79 | 417 | 85 | 2029 |
+| 30d | 2026-08-24 | 5 | 40 | 32 | 2 | 9 | 21 |
+| last60d | 2026-07-25 | 10 | 127 | 50 | 6 | 22 | 76 |
+| 90d | 2026-06-25 | 14 | 182 | 60 | 13 | 26 | 104 |
+| last180d | 2026-03-27 | 31 | 359 | 76 | 43 | 49 | 274 |
+| 360d | 2025-09-28 | 48 | 586 | 83 | 139 | 66 | 645 |
+| last720d | 2024-10-03 | 77 | 982 | 83 | 418 | 85 | 2028 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:32:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:44:52Z._
