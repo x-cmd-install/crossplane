@@ -18,8 +18,8 @@ Total: **109,206** lines of code across **771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 84,305 | 16,321 | 10,933 | 390 |
-| Yaml | 23,651 | 481 | 166 | 364 |
+| Go | 84,305 | 16,323 | 10,933 | 390 |
+| Yaml | 23,651 | 475 | 166 | 364 |
 | Nix | 561 | 810 | 77 | 6 |
 | Protobuf | 383 | 534 | 215 | 4 |
 | Sh | 273 | 128 | 67 | 7 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-09-22)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-25
 
 ## Popularity
 
-- **Stars**: 12,106 · **Forks**: 1,268 · **Open issues**: 2,677 · **Contributors**: 299
+- **Stars**: 12,110 · **Forks**: 1,268 · **Open issues**: 2,677 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 3996 · **Open PRs**: 85 · **Closed issues**: 2564 · **Open issues**: 113 · **Commits**: 9137
+- **Releases**: 182 · **Merged PRs**: 4003 · **Open PRs**: 84 · **Closed issues**: 2565 · **Open issues**: 112 · **Commits**: 9141
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 5 | 34 | 33 | 2 | 10 | 21 |
-| last60d | 2026-07-27 | 10 | 123 | 50 | 5 | 23 | 78 |
-| 90d | 2026-06-27 | 14 | 169 | 60 | 11 | 26 | 106 |
-| last180d | 2026-03-29 | 31 | 360 | 78 | 46 | 47 | 276 |
-| 360d | 2025-09-30 | 48 | 587 | 85 | 141 | 64 | 647 |
-| last720d | 2024-10-05 | 77 | 983 | 85 | 420 | 83 | 2031 |
+| 30d | 2026-08-27 | 5 | 40 | 31 | 2 | 10 | 23 |
+| last60d | 2026-07-28 | 10 | 126 | 49 | 6 | 22 | 80 |
+| 90d | 2026-06-28 | 14 | 176 | 59 | 12 | 25 | 108 |
+| last180d | 2026-03-30 | 31 | 366 | 77 | 47 | 46 | 278 |
+| 360d | 2025-10-01 | 48 | 594 | 84 | 140 | 63 | 649 |
+| last720d | 2024-10-06 | 77 | 990 | 84 | 421 | 82 | 2035 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260925.yml` · 2026-09-25T06:06:21Z._
+_Snapshot: `data/card/260926.yml` · 2026-09-26T06:06:35Z._
