@@ -14,11 +14,11 @@ x install crossplane
 
 ## Code insight
 
-Total: **109,253** lines of code across **771** files in the top 5 languages.
+Total: **108,714** lines of code across **771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 84,352 | 16,320 | 10,933 | 390 |
+| Go | 83,813 | 16,332 | 10,965 | 390 |
 | Yaml | 23,651 | 475 | 166 | 364 |
 | Nix | 561 | 810 | 77 | 6 |
 | Protobuf | 383 | 534 | 215 | 4 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-09-22)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 12,126 · **Forks**: 1,271 · **Open issues**: 2,677 · **Contributors**: 300
+- **Stars**: 12,129 · **Forks**: 1,271 · **Open issues**: 2,679 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4010 · **Open PRs**: 79 · **Closed issues**: 2570 · **Open issues**: 107 · **Commits**: 9146
+- **Releases**: 182 · **Merged PRs**: 4014 · **Open PRs**: 81 · **Closed issues**: 2570 · **Open issues**: 109 · **Commits**: 9158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 5 | 44 | 24 | 3 | 7 | 14 |
-| last60d | 2026-08-02 | 10 | 112 | 43 | 6 | 19 | 53 |
-| 90d | 2026-07-03 | 14 | 178 | 55 | 12 | 23 | 105 |
-| last180d | 2026-04-04 | 31 | 367 | 71 | 48 | 42 | 276 |
-| 360d | 2025-10-06 | 48 | 598 | 79 | 144 | 58 | 649 |
-| last720d | 2024-10-11 | 77 | 993 | 79 | 421 | 77 | 2035 |
+| 30d | 2026-09-02 | 5 | 40 | 26 | 3 | 8 | 22 |
+| last60d | 2026-08-03 | 10 | 102 | 45 | 6 | 20 | 61 |
+| 90d | 2026-07-04 | 14 | 182 | 57 | 12 | 25 | 113 |
+| last180d | 2026-04-05 | 31 | 371 | 73 | 48 | 44 | 284 |
+| 360d | 2025-10-07 | 48 | 601 | 81 | 143 | 60 | 657 |
+| last720d | 2024-10-12 | 77 | 997 | 81 | 421 | 79 | 2045 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:07:09Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:47:21Z._
