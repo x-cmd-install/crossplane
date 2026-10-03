@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-09-22)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-03
 
 ## Popularity
 
-- **Stars**: 12,129 · **Forks**: 1,271 · **Open issues**: 2,679 · **Contributors**: 300
+- **Stars**: 12,132 · **Forks**: 1,272 · **Open issues**: 2,682 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4014 · **Open PRs**: 81 · **Closed issues**: 2570 · **Open issues**: 109 · **Commits**: 9158
+- **Releases**: 182 · **Merged PRs**: 4026 · **Open PRs**: 74 · **Closed issues**: 2572 · **Open issues**: 110 · **Commits**: 9181
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 5 | 40 | 26 | 3 | 8 | 22 |
-| last60d | 2026-08-03 | 10 | 102 | 45 | 6 | 20 | 61 |
-| 90d | 2026-07-04 | 14 | 182 | 57 | 12 | 25 | 113 |
-| last180d | 2026-04-05 | 31 | 371 | 73 | 48 | 44 | 284 |
-| 360d | 2025-10-07 | 48 | 601 | 81 | 143 | 60 | 657 |
-| last720d | 2024-10-12 | 77 | 997 | 81 | 421 | 79 | 2045 |
+| 30d | 2026-09-03 | 5 | 45 | 20 | 5 | 7 | 34 |
+| last60d | 2026-08-04 | 10 | 111 | 38 | 6 | 20 | 73 |
+| 90d | 2026-07-05 | 14 | 194 | 50 | 14 | 26 | 125 |
+| last180d | 2026-04-06 | 31 | 381 | 66 | 50 | 45 | 296 |
+| 360d | 2025-10-08 | 48 | 612 | 74 | 144 | 61 | 669 |
+| last720d | 2024-10-13 | 77 | 1009 | 74 | 423 | 80 | 2066 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T06:47:21Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:32:41Z._
