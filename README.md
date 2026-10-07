@@ -14,11 +14,11 @@ x install crossplane
 
 ## Code insight
 
-Total: **108,714** lines of code across **771** files in the top 5 languages.
+Total: **108,740** lines of code across **771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 83,813 | 16,332 | 10,965 | 390 |
+| Go | 83,839 | 16,336 | 10,966 | 390 |
 | Yaml | 23,651 | 475 | 166 | 364 |
 | Nix | 561 | 810 | 77 | 6 |
 | Protobuf | 383 | 534 | 215 | 4 |
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.2` (2026-09-22)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 12,134 · **Forks**: 1,273 · **Open issues**: 2,680 · **Contributors**: 300
+- **Stars**: 12,133 · **Forks**: 1,273 · **Open issues**: 2,682 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4034 · **Open PRs**: 76 · **Closed issues**: 2572 · **Open issues**: 108 · **Commits**: 9189
+- **Releases**: 182 · **Merged PRs**: 4035 · **Open PRs**: 79 · **Closed issues**: 2573 · **Open issues**: 109 · **Commits**: 9191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 5 | 50 | 21 | 5 | 5 | 35 |
-| last60d | 2026-08-07 | 10 | 111 | 39 | 6 | 18 | 69 |
-| 90d | 2026-07-08 | 14 | 200 | 52 | 13 | 26 | 127 |
-| last180d | 2026-04-09 | 31 | 379 | 67 | 47 | 44 | 266 |
-| 360d | 2025-10-11 | 48 | 617 | 76 | 145 | 60 | 669 |
-| last720d | 2024-10-16 | 77 | 1016 | 76 | 421 | 79 | 2061 |
+| 30d | 2026-09-07 | 5 | 50 | 26 | 5 | 6 | 35 |
+| last60d | 2026-08-08 | 10 | 108 | 44 | 7 | 19 | 69 |
+| 90d | 2026-07-09 | 14 | 198 | 57 | 13 | 27 | 127 |
+| last180d | 2026-04-10 | 31 | 379 | 71 | 48 | 45 | 267 |
+| 360d | 2025-10-12 | 48 | 618 | 79 | 146 | 61 | 670 |
+| last720d | 2024-10-17 | 77 | 1017 | 79 | 422 | 80 | 2055 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:53:10Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:22:40Z._
