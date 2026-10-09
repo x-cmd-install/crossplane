@@ -50,18 +50,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4035 · **Open PRs**: 79 · **Closed issues**: 2573 · **Open issues**: 109 · **Commits**: 9191
+- **Releases**: 182 · **Merged PRs**: 4035 · **Open PRs**: 83 · **Closed issues**: 2573 · **Open issues**: 109 · **Commits**: 9191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 5 | 48 | 26 | 5 | 5 | 35 |
-| last60d | 2026-08-09 | 10 | 108 | 44 | 7 | 19 | 69 |
-| 90d | 2026-07-10 | 14 | 194 | 56 | 13 | 27 | 127 |
-| last180d | 2026-04-11 | 31 | 379 | 71 | 48 | 45 | 267 |
-| 360d | 2025-10-13 | 48 | 618 | 79 | 146 | 61 | 670 |
-| last720d | 2024-10-18 | 77 | 1014 | 79 | 422 | 79 | 2055 |
+| 30d | 2026-09-09 | 5 | 41 | 29 | 5 | 5 | 35 |
+| last60d | 2026-08-10 | 10 | 107 | 45 | 7 | 17 | 69 |
+| 90d | 2026-07-11 | 14 | 194 | 60 | 13 | 27 | 127 |
+| last180d | 2026-04-12 | 31 | 379 | 75 | 48 | 45 | 267 |
+| 360d | 2025-10-14 | 48 | 618 | 83 | 146 | 61 | 670 |
+| last720d | 2024-10-19 | 77 | 1014 | 83 | 422 | 79 | 2054 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:29:34Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:23:15Z._
