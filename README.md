@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.4.2` (2026-09-22)
+- **Latest**: `v1.20.14` (2026-10-22)
 - **Last commit**: 2026-10-20
 
 ## Popularity
 
-- **Stars**: 12,188 · **Forks**: 1,284 · **Open issues**: 2,687 · **Contributors**: 301
+- **Stars**: 12,190 · **Forks**: 1,283 · **Open issues**: 2,688 · **Contributors**: 301
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 4062 · **Open PRs**: 85 · **Closed issues**: 2575 · **Open issues**: 112 · **Commits**: 9238
+- **Releases**: 186 · **Merged PRs**: 4073 · **Open PRs**: 82 · **Closed issues**: 2576 · **Open issues**: 112 · **Commits**: 9238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 48 | 28 | 1 | 11 | 45 |
-| last60d | 2026-08-23 | 5 | 103 | 47 | 6 | 20 | 76 |
-| 90d | 2026-07-24 | 10 | 192 | 61 | 11 | 31 | 137 |
-| last180d | 2026-04-25 | 26 | 368 | 79 | 45 | 48 | 264 |
-| 360d | 2025-10-27 | 48 | 641 | 85 | 136 | 64 | 678 |
-| last720d | 2024-11-01 | 73 | 1018 | 85 | 418 | 83 | 2043 |
+| 30d | 2026-09-23 | 4 | 59 | 25 | 2 | 11 | 45 |
+| last60d | 2026-08-24 | 9 | 113 | 42 | 7 | 19 | 76 |
+| 90d | 2026-07-25 | 14 | 202 | 57 | 12 | 31 | 137 |
+| last180d | 2026-04-26 | 30 | 379 | 75 | 46 | 48 | 264 |
+| 360d | 2025-10-28 | 52 | 650 | 82 | 137 | 64 | 678 |
+| last720d | 2024-11-02 | 77 | 1025 | 82 | 418 | 83 | 2040 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:53:11Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:50Z._
