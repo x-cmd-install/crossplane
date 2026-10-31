@@ -2,101 +2,101 @@ about:
   description: "The Cloud Native Control Plane"
   license: Apache-2.0
   homepage: https://crossplane.io
-  head: 76a72be
+  head: 504c487
   archived: false
   latestVersion: "v1.20.14"
   latestRelease: "v1.20.14"
   latestPrerelease: "v2.4.0-rc.1"
-  collectedAt: 2026-10-30T07:04:55Z
+  collectedAt: 2026-10-31T06:56:53Z
 timeline:
   created: 2018-09-08
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2026-10-22
   lastRelease: 2026-10-22
   lastPrerelease: 2026-08-14
 popularity:
-  star: 12206
+  star: 12209
   watcher: 145
   fork: 1286
   release: 186
   contributor: 303
-  pullRequest: 4868
+  pullRequest: 4871
   issue: 2690
 language:
-  Go: 3513322
+  Go: 3515267
   Nix: 44551
   Shell: 15735
   Mustache: 995
-totalBytes: 3574603
+totalBytes: 3576548
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 4
-    mergedPR: 70
-    openPR: 26
+    mergedPR: 69
+    openPR: 27
     closedIssue: 4
-    openIssue: 10
-    commit: 41
+    openIssue: 8
+    commit: 43
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 9
-    mergedPR: 125
+    mergedPR: 126
     openPR: 40
     closedIssue: 9
-    openIssue: 18
-    commit: 83
+    openIssue: 17
+    commit: 85
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 14
-    mergedPR: 198
+    mergedPR: 197
     openPR: 56
     closedIssue: 12
-    openIssue: 30
-    commit: 125
+    openIssue: 29
+    commit: 127
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 30
-    mergedPR: 402
-    openPR: 77
+    mergedPR: 404
+    openPR: 78
     closedIssue: 47
     openIssue: 46
-    commit: 272
+    commit: 274
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 51
-    mergedPR: 661
-    openPR: 85
+    mergedPR: 659
+    openPR: 86
     closedIssue: 131
     openIssue: 60
-    commit: 672
+    commit: 674
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 74
-    mergedPR: 1034
-    openPR: 85
+    mergedPR: 1036
+    openPR: 86
     closedIssue: 418
     openIssue: 78
-    commit: 2040
+    commit: 2043
 total:
   release: 186
-  mergedPR: 4096
-  openPR: 85
+  mergedPR: 4098
+  openPR: 86
   closedIssue: 2582
   openIssue: 108
-  commit: 9260
+  commit: 9263
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-10-30T07:04:59Z
+collectedAt: 2026-10-31T06:57:00Z
 loc:
   Go:
-    code: 88407
-    comments: 17016
-    blanks: 11497
+    code: 88461
+    comments: 17027
+    blanks: 11509
     files: 402
   Yaml:
-    code: 24224
+    code: 24560
     comments: 522
-    blanks: 169
+    blanks: 166
     files: 389
   Nix:
     code: 561
@@ -134,9 +134,9 @@ loc:
     blanks: 8
     files: 3
 total:
-  code: 121631
-  comments: 45678
-  blanks: 19206
+  code: 122021
+  comments: 45689
+  blanks: 19215
   files: 922
 ---
 date: "2026-10-26"
