@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.20.14` (2026-10-22)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 
 ## Popularity
 
-- **Stars**: 12,247 · **Forks**: 1,292 · **Open issues**: 2,701 · **Contributors**: 303
+- **Stars**: 12,245 · **Forks**: 1,293 · **Open issues**: 2,701 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 4125 · **Open PRs**: 87 · **Closed issues**: 2587 · **Open issues**: 114 · **Commits**: 9323
+- **Releases**: 186 · **Merged PRs**: 4129 · **Open PRs**: 84 · **Closed issues**: 2587 · **Open issues**: 114 · **Commits**: 9325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 63 | 27 | 3 | 15 | 45 |
-| last60d | 2026-09-16 | 5 | 125 | 44 | 6 | 21 | 99 |
-| 90d | 2026-08-17 | 13 | 178 | 60 | 11 | 33 | 135 |
-| last180d | 2026-05-19 | 29 | 396 | 81 | 43 | 49 | 290 |
-| 360d | 2025-11-20 | 45 | 661 | 87 | 128 | 66 | 691 |
-| last720d | 2024-11-25 | 74 | 1031 | 87 | 409 | 85 | 2053 |
+| 30d | 2026-10-17 | 4 | 64 | 24 | 3 | 15 | 46 |
+| last60d | 2026-09-17 | 5 | 129 | 39 | 6 | 21 | 100 |
+| 90d | 2026-08-18 | 13 | 178 | 57 | 10 | 31 | 136 |
+| last180d | 2026-05-20 | 29 | 395 | 78 | 42 | 49 | 291 |
+| 360d | 2025-11-21 | 45 | 664 | 84 | 128 | 66 | 692 |
+| last720d | 2024-11-26 | 74 | 1035 | 84 | 407 | 85 | 2054 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:04:03Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:34:46Z._
