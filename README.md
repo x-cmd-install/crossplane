@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.5.0-rc.1` (2026-10-22)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-20
 
 ## Popularity
 
-- **Stars**: 12,258 · **Forks**: 1,298 · **Open issues**: 2,701 · **Contributors**: 303
+- **Stars**: 12,258 · **Forks**: 1,302 · **Open issues**: 2,703 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 4144 · **Open PRs**: 88 · **Closed issues**: 2589 · **Open issues**: 112 · **Commits**: 9344
+- **Releases**: 187 · **Merged PRs**: 4146 · **Open PRs**: 89 · **Closed issues**: 2589 · **Open issues**: 114 · **Commits**: 9346
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 5 | 72 | 26 | 2 | 12 | 54 |
-| last60d | 2026-09-20 | 6 | 138 | 44 | 6 | 21 | 109 |
-| 90d | 2026-08-21 | 13 | 185 | 60 | 10 | 31 | 149 |
-| last180d | 2026-05-23 | 25 | 392 | 81 | 41 | 48 | 305 |
-| 360d | 2025-11-24 | 46 | 679 | 88 | 129 | 65 | 706 |
-| last720d | 2024-11-29 | 75 | 1047 | 88 | 404 | 83 | 2067 |
+| 30d | 2026-10-21 | 5 | 73 | 27 | 2 | 14 | 55 |
+| last60d | 2026-09-21 | 6 | 139 | 44 | 6 | 23 | 110 |
+| 90d | 2026-08-22 | 10 | 187 | 61 | 10 | 32 | 150 |
+| last180d | 2026-05-24 | 25 | 394 | 82 | 41 | 50 | 306 |
+| 360d | 2025-11-25 | 46 | 681 | 89 | 128 | 67 | 707 |
+| last720d | 2024-11-30 | 74 | 1048 | 89 | 404 | 85 | 2067 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T10:36:24Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:32:47Z._
