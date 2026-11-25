@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.5.0-rc.1` (2026-10-22)
-- **Last commit**: 2026-11-20
+- **Latest**: `v2.3.8` (2026-11-24)
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 12,262 · **Forks**: 1,306 · **Open issues**: 2,704 · **Contributors**: 303
+- **Stars**: 12,263 · **Forks**: 1,306 · **Open issues**: 2,704 · **Contributors**: 303
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 4156 · **Open PRs**: 88 · **Closed issues**: 2592 · **Open issues**: 112 · **Commits**: 9353
+- **Releases**: 191 · **Merged PRs**: 4157 · **Open PRs**: 94 · **Closed issues**: 2592 · **Open issues**: 112 · **Commits**: 9357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 68 | 29 | 1 | 15 | 50 |
-| last60d | 2026-09-25 | 5 | 132 | 42 | 6 | 22 | 106 |
-| 90d | 2026-08-26 | 10 | 187 | 59 | 11 | 31 | 147 |
-| last180d | 2026-05-28 | 25 | 401 | 80 | 42 | 48 | 303 |
-| 360d | 2025-11-29 | 46 | 689 | 88 | 131 | 65 | 701 |
-| last720d | 2024-12-04 | 74 | 1051 | 88 | 403 | 83 | 2062 |
+| 30d | 2026-10-26 | 5 | 69 | 33 | 1 | 15 | 53 |
+| last60d | 2026-09-26 | 9 | 133 | 47 | 6 | 22 | 109 |
+| 90d | 2026-08-27 | 14 | 187 | 63 | 11 | 31 | 150 |
+| last180d | 2026-05-29 | 29 | 402 | 85 | 41 | 47 | 306 |
+| 360d | 2025-11-30 | 50 | 690 | 94 | 131 | 65 | 704 |
+| last720d | 2024-12-05 | 78 | 1050 | 94 | 403 | 83 | 2061 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for crossplane lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:34:55Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:26:35Z._
