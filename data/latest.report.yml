@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.3.8"
   latestRelease: "v2.3.8"
   latestPrerelease: "v2.5.0-rc.1"
-  collectedAt: 2026-11-27T10:29:27Z
+  collectedAt: 2026-11-28T09:25:23Z
 timeline:
   created: 2018-09-08
   lastCommit: 2026-11-25
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-11-24
   lastPrerelease: 2026-11-18
 popularity:
-  star: 12270
+  star: 12272
   watcher: 147
-  fork: 1306
+  fork: 1307
   release: 191
   contributor: 303
-  pullRequest: 4953
+  pullRequest: 4955
   issue: 2705
 language:
   Go: 3759316
@@ -30,63 +30,63 @@ language:
 totalBytes: 3822308
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 5
-    mergedPR: 61
-    openPR: 31
+    mergedPR: 56
+    openPR: 29
     closedIssue: 0
-    openIssue: 16
+    openIssue: 15
     commit: 58
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 9
-    mergedPR: 136
-    openPR: 42
+    mergedPR: 135
+    openPR: 43
     closedIssue: 6
     openIssue: 23
     commit: 114
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 14
     mergedPR: 192
-    openPR: 56
+    openPR: 57
     closedIssue: 11
     openIssue: 32
     commit: 155
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 29
     mergedPR: 405
-    openPR: 80
+    openPR: 81
     closedIssue: 40
     openIssue: 47
     commit: 311
   last360d:
-    since: 2025-12-02
-    release: 50
-    mergedPR: 687
-    openPR: 89
+    since: 2025-12-03
+    release: 45
+    mergedPR: 685
+    openPR: 90
     closedIssue: 127
     openIssue: 65
     commit: 709
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 78
     mergedPR: 1056
-    openPR: 89
+    openPR: 90
     closedIssue: 401
     openIssue: 83
     commit: 2066
 total:
   release: 191
   mergedPR: 4163
-  openPR: 89
+  openPR: 90
   closedIssue: 2593
   openIssue: 112
   commit: 9367
 ---
 path: /home/runner/.x-repo/github.com/crossplane/crossplane
-collectedAt: 2026-11-27T10:29:33Z
+collectedAt: 2026-11-28T09:25:29Z
 loc:
   Go:
     code: 93629
